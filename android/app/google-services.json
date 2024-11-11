@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747964376062",
+    "project_id": "pushnot-cff11",
+    "storage_bucket": "pushnot-cff11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747964376062:android:d77f3c70b235dfbaf956af",
+        "android_client_info": {
+          "package_name": "com.kingstech.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxa3Y-4_fqGvEMzwZXXfxYBF5lRMnnMTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
